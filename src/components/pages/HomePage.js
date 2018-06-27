@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 
 const HomePage = () => <div>
-<h1>Blog HomePage</h1>
+<h1>Blog HomePage </h1>
 
 <Link to="/login">Login</Link>
 </div>
